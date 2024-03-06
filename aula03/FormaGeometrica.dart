@@ -1,0 +1,5 @@
+class FormaGeometrica {
+  void calcularArea() {
+    
+  }
+}
